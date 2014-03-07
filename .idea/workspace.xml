@@ -76,19 +76,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sender.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Sender.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Classes/ObjForTransfer/Sender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="57" selection-start="1195" selection-end="1195" vertical-scroll-proportion="0.4293478">
+            <state line="39" column="78" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Transfer.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Transfer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Transfer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="13" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+            <state line="30" column="31" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5706522">
               <folding />
             </state>
           </provider>
@@ -120,8 +120,8 @@
         <option value="$PROJECT_DIR$/Classes/ObjForTransfer/Receiver.java" />
         <option value="$PROJECT_DIR$/Classes/Transfer.java" />
         <option value="$PROJECT_DIR$/src/Classes/ObjForTransfer/Receiver.java" />
-        <option value="$PROJECT_DIR$/src/Transfer.java" />
         <option value="$PROJECT_DIR$/src/Classes/ObjForTransfer/Sender.java" />
+        <option value="$PROJECT_DIR$/src/Transfer.java" />
       </list>
     </option>
   </component>
@@ -591,14 +591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/ObjForTransfer/Sender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="57" selection-start="1195" selection-end="1195" vertical-scroll-proportion="0.4293478">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Transfer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+        <state line="39" column="78" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -606,6 +599,13 @@
     <entry file="file://$PROJECT_DIR$/src/Classes/ObjForTransfer/Receiver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="30" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="31" selection-start="558" selection-end="558" vertical-scroll-proportion="0.5706522">
           <folding />
         </state>
       </provider>

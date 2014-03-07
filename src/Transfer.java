@@ -28,7 +28,7 @@ public class Transfer {
 
         do{
             System.out.println("Enter S or s to enter Sending mode"+
-                              "Enter R or r to enter Receiving mode");
+                               "Enter R or r to enter Receiving mode");
 
             j = scanner.next().charAt(0);
             switch(j){
