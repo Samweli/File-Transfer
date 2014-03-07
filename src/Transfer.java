@@ -41,7 +41,7 @@ public class Transfer {
                     scanner.nextLine();// removing remained data
 
                     System.out.println("Enter the name of the file"+
-                                       " (maximum size is 3MB)");
+                                       " (maximum size is 6MB)");
                     filename = scanner.nextLine();
 
                     file = new File(filename);

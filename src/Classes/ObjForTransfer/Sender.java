@@ -29,21 +29,15 @@ import java.io.*;
             while(bool){
 
             try{
-                System.out.println("entered first try");
+
                 socket = new Socket(destinationAddress,8081) ;
-                System.out.println("created socket");
-
                 out = socket.getOutputStream();
-                System.out.println("created outputstream");
-
-                FileInputStream fin = new FileInputStream("file.txt");
+                FileInputStream fin = new FileInputStream(this.file);
                 BufferedInputStream bin = new BufferedInputStream(fin);
-
-                System.out.println(" take file properties");
-
 
 
                 try{
+
                     sendFileProperties(out);
 
                     //Writing the file bytes into our buffering array
@@ -54,11 +48,11 @@ import java.io.*;
                     out.flush();
                     socket.close();
                     System.out.println("File has been sent successfully");
-                    bool = false;
+                    bool = true;
                 }
                 catch(IOException e){
-                    System.out.println("Program exited, Problem in sending the file");
-
+                    System.out.println(e+"Program exited, Problem in sending the file");
+                    bool = false;
                 }
 
             }
@@ -75,7 +69,7 @@ import java.io.*;
             DataOutputStream dos = new DataOutputStream(out);
 
             dos.writeUTF(this.file.getName());
-            dos.close();
+
             }catch(IOException e){
                 System.out.println("Problem in Sending file properties");
             }
