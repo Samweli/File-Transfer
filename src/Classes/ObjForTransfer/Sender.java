@@ -39,7 +39,7 @@ import java.io.*;
                 FileInputStream fin = new FileInputStream("file.txt");
                 BufferedInputStream bin = new BufferedInputStream(fin);
 
-                System.out.println(" take file properties ");
+                System.out.println(" take file properties");
 
 
 
