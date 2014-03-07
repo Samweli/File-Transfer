@@ -79,7 +79,7 @@
       <file leaf-file-name="Sender.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Classes/ObjForTransfer/Sender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="70" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.3478261">
+            <state line="41" column="58" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.4293478">
               <folding />
             </state>
           </provider>
@@ -399,12 +399,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.025785657" sideWeight="0.33876222" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.025785657" sideWeight="0.33876222" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4218241" sideWeight="0.99356395" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -591,7 +591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/ObjForTransfer/Sender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="70" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.3478261">
+        <state line="41" column="58" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.4293478">
           <folding />
         </state>
       </provider>
