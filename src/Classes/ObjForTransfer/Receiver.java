@@ -21,7 +21,7 @@
          BufferedOutputStream bo;
          String fileName;
          byte [] incomingFileBuffer;
-         final int maximumFileSize = 6 * 1024 * 1024;   //maximum incoming file size is 3 Megabyte
+         final int maximumFileSize = 6 * 1024 * 1024;   //maximum incoming file size is 6 Megabyte
 
          int writtenBytes;
 

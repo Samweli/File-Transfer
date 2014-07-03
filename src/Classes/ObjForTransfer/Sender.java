@@ -3,12 +3,10 @@ package Classes.ObjForTransfer;
 
 
 import java.io.*;
-   import java.io.DataOutputStream;
-   import java.io.IOException;
-   import java.io.OutputStream;
-   import java.net.*;
+import java.net.*;
 
-    public class Sender{
+
+public class Sender{
 
         private File file;
         private String destinationAddress;
@@ -51,7 +49,7 @@ import java.io.*;
                     bool = true;
                 }
                 catch(IOException e){
-                    System.out.println(e+"Program exited, Problem in sending the file");
+                    System.out.println(e + " Program exited, Problem in sending the file");
                     bool = false;
                 }
 
@@ -74,6 +72,7 @@ import java.io.*;
                 System.out.println("Problem in Sending file properties");
             }
 
+             
 
         }
 
